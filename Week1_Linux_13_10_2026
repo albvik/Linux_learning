@@ -1,1 +1,8 @@
+Troubleshoot a Worker Service That Keeps Disappearing:
 
+am facut troubleshooting la un serviciu une tot se inchidea o data la 30 secunde, am cautat in loguri cu journalctl + systemctl ca sa vad cei cu serviciul 
+si am modificat configuratia service-ului de la 200 la 300 pe urma la 400 MB pana a fost suficient si nu a mai picat
+
+
+Call an HTTP API with curl: Authenticating with Basic Auth and Bearer Tokens:
+nu am reusit ca nu inteleg bine task-ul necesita mai mult timp sa inteleg cum sa fac comanda curl sa imi dea datele cerute in task
